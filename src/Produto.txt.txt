@@ -1,0 +1,3 @@
+111.222.333-44, TV, TV 65, 5000
+987.654.321-11, PC, Pc Positivo, 3250,82
+777.444.555-33, SmartPhone, SmartPhone S22, 3000
